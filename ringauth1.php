@@ -43,7 +43,7 @@ if ($err) {
 
 $obj = json_decode($response);
 //echo $response;
-$nexttime = $obj->{'next_time_in_secs'};
+//$nexttime = $obj->{'next_time_in_secs'};
 
 }
 
